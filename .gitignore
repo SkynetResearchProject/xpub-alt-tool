@@ -74,3 +74,7 @@ packages/xpub-cli/lib
 
 # jsdoc output
 out
+
+example/node_modules
+example/tmp
+package-lock.json

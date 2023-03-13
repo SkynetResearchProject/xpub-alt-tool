@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@noble/hashes": "^1.2.0",
+    "@swan-bitcoin/xpub-lib": "^0.1.5",
+    "base-58": "0.0.1"
+  }
+}
